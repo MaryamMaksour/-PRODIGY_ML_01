@@ -1,4 +1,4 @@
-# PRODIGY_ML_01
+# linear regression model to predict the prices of houses
 
 Linear Regression Project
 This repository contains files related to a linear regression project under my ML internship at Prodigy InfoTech.
