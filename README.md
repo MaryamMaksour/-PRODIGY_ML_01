@@ -1,9 +1,4 @@
 # linear regression model to predict the prices of houses
 
-Linear Regression Project
-This repository contains files related to a linear regression project under my ML internship at Prodigy InfoTech.
-
-Task-01
-Implement a linear regression model to predict the prices of houses based on
-their square footage and the number of bedrooms and bathrooms.
+This project showcases the implementation of a Linear Regression model using Python. Linear Regression is a fundamental algorithm in machine learning used for predicting a continuous target variable based on one or more predictor variables.
 
